@@ -22,7 +22,7 @@ class BackgroundHome extends StatelessWidget {
             child: Image.asset(
               'assets/Images/topDesign.png',
               width: size.width,
-            )
+            ),
           ),
           child,
         ],
